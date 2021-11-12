@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: ""
-url: "ithub.com/LaraCTimm"
+url: "https://laractimm.github.io/"
 
 # THEME-SPECIFIC CONFIGURATION
 title: Type on Strap                                    # site's title
