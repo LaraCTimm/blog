@@ -2,20 +2,34 @@
 layout: default
 ---
 
-{% include site-header.html %}
+<article {% if page.feature-img %}class="feature-image"{% endif %}>
 
-<main class="main  container">
+  <header id="main" style="background-image: url('{{ page.feature-img | relative_url }}')">
+    <div class="title-padder">
+      {% if page.hide_title %}
+        <div class="feature-image-padding"></div>
+      {% else %}
+        <h1 id="{{ page.title | default: "" | cgi_escape }}" class="title"> {{ page.title }}</h1>
+        {% if page.subtitle %}
+        <h2 class="subtitle">{{ page.subtitle }}</h2>
+        {% endif %}
+      {% endif %}
+    </div>
+  </header>
 
-  <article class="article  article--page  content  typeset">
+  <section class="post-content">
+  {% if page.bootstrap %}
+  <div class="bootstrap-iso">
+  {% endif %}
+	{{ content }}
+  {% if page.bootstrap %}
+  </div>
+  {% endif %}
+  </section>
 
-    <h1>{{ page.title }}</h1>
 
-    {{ content }}
+  <!-- Tag list for portfolio -->
+  {% capture tag_list %}{{ page.tags | join: "|"}}{% endcapture %}
+  {% include default/tags_list.html tags=tag_list %}
 
-  </article>
-
-  {% if page.aside == true %}{% include site-aside.html %}{% endif %}
-
-</main>
-
-{% include site-footer.html %}
+</article>
