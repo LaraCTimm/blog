@@ -15,9 +15,9 @@ So why *Mend Your Ways*? First of all, comitting to a name for this blog was tri
 
 *Mend Your Ways* is an English idiom meaning to "improve one's habits or behavoiur" or "to start behaving in a different, usually preferrable way". 
 
-I see *Mend Your Ways* as an opportunity for me to document how I improve my habits and behavours, with the aim of personal growth and development. I'm working on using my newfound perspective to heal the unhealthy habits and default behavours of the past - so that life is just better for me and those around me.
+I see *Mend Your Ways* as an opportunity for me to document how I heal the unhealthy habits and crappy default behavours of the past - so that life is just better for me and those around me.
 
 You are invited to join me on this journey. Welcome to my irregular, text based, averagely researched TED talk.
 
-Keep healing,
+Keep growing,\
 Lara
