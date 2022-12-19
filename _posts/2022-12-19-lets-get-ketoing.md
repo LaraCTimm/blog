@@ -13,4 +13,4 @@ Keto has also been an interesting experiment for me, where I get to use my creat
 
 So what I'm planning on doing is using this platform to share some of my creations. With recipes and tips and how I think they went. For me, as a recipe book and record - things I like to eat in different categories. And perhaps for others, if I choose to share this link with anyone ever :)
 
-Check out the [Recipes](/portfolio/) section at the top. 
+Check out the [Recipes](/blog/portfolio/) section at the top. 
