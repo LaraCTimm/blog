@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Cake
+title: Chakalaka Chicken
 feature-img: "assets/img/portfolio/cake.png"
 img: "assets/img/portfolio/cake.png"
-date: 27 September 2015
-tags: [Lorem, Ipsum]
+date: 19 December 2022
+tags: [Keto, Chicken, Dinner]
 ---
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, 
