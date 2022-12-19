@@ -3,6 +3,7 @@ layout: post
 title: >
     Why *Mend Your Ways*
 tags: [Chats]
+author: Lara Timm
 ---
 
 You may be thinking - who really starts a blog in 2021? Blogs are so 2009!
