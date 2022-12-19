@@ -4,18 +4,37 @@ title: Chakalaka Chicken
 feature-img: "assets/img/portfolio/cake.png"
 img: "assets/img/portfolio/cake.png"
 date: 19 December 2022
-tags: [Keto, Chicken, Dinner]
+tags: [Keto, Chicken, Dinner, Stovetop]
 ---
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, 
-totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-Nemo enim ipsam voluptatem <a>quia voluptas sit aspernatur</a> aut odit aut fugit, 
-sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. 
-Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, 
-sed quia non numquam eius <a>modi tempora incidunt</a> ut labore et dolore magnam aliquam quaerat voluptatem. 
-Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? 
-Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, 
-vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+servings: 4
+prep time:
+cook time:
+total time:
 
-Use this area of the page to describe your project. 
-The icon above is part of a free icon set by Flat Icons. 
+# Ingredients
+
+- 1 tbsp coconut oil
+- 8 chicken breasts, diced (800g)
+- 1 1/2 tbsp [Usisi Brands](https://usisibrands.co.za/products/) Chakalaka Seasoning
+- 1 tin tomato and onion mix (400g)
+- 1/2 cup double cream yoghurt
+
+# Equipment
+
+- Large casserole or pot
+
+# Instructions
+
+1. Heat your coconut oil in a pot over a medium heat
+2. Add chicken and Chakalaka Seasoning and cook until lightly browned
+3. Add tomato and onion mix and simmer for about 10 minute before adding your yogurt
+4. Simmer the sauce for another 10 minutes
+5. Serve and enjoy with cauliflower rice or substitute of your choice
+
+
+# Notes
+
+The [Usisi Brands](https://usisibrands.co.za/products/) spices are clean and delicious! A definite win on keto. They can be purchased in store at your nearest Dis-Chem store or online at your favourite low carb wholesaler.
+
+# Nutritional Information
